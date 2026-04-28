@@ -1,3 +1,32 @@
+Start
+
+Set length = 0
+Set words = 1
+Set vowels = 0
+
+Read character
+
+While character != '.'
+    length = length + 1
+
+    If character is vowel
+        vowels = vowels + 1
+    EndIf
+
+    If character == ' '
+        words = words + 1
+    EndIf
+
+    Read next character
+EndWhile
+
+Display length
+Display words
+Display vowels
+
+End
+
+
 # Sentence Analyzer Algorithm (JavaScript)
 
 ## 📌 Description
