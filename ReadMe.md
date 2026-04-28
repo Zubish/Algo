@@ -27,9 +27,9 @@ Display vowels
 End
 
 
-**Sentence Analyzer Algorithm (JavaScript)
+**Sentence Analyzer Algorithm (JavaScript)**
 
-Description**
+**Description**
 This project implements a simple algorithm in JavaScript that reads a sentence character by character and calculates:
 
 - The total number of characters (length)
